@@ -12,19 +12,19 @@ EchoChromatic is an innovative audio visualization app that allows users to uplo
 
 ## Screenshots
 
-![Loading Screen](![image](https://github.com/user-attachments/assets/a7c7ab2e-d1cf-42a0-b64a-bd4ed108dd41))
+![image](https://github.com/user-attachments/assets/55cb7154-d6bd-4b66-8aa0-e7d950f7b36f)
 *Loading Screen*
 
-![Welcome Screen](![image](![image](https://github.com/user-attachments/assets/7c4aabb5-6320-4969-bb55-aee7efc35f9c)
-))
+
+![image](https://github.com/user-attachments/assets/29596d9e-16a0-4b43-9a6f-edf7ce882762)
 *Welcome Screen*
 
-![Audio Upload](![image](![image](https://github.com/user-attachments/assets/09a56136-5d2c-496f-a128-3bcf5d684780)
-)
-)
+
+![image](https://github.com/user-attachments/assets/1a7bd730-220e-4073-b123-f3d038222f05)
 *Audio Upload Screen*
 
-![Visualization](path/to/visualization.png)
+
+![image](https://github.com/user-attachments/assets/e235ca7e-88fc-4e7b-a431-c85355f0b522)
 *Audio Visualization (Mock Data)*
 
 ## Installation
