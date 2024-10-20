@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# EchoChromatic
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+EchoChromatic is an innovative audio visualization app that allows users to upload or record audio and see it come to life through dynamic visual representations.
 
-## Get started
+## Features
 
-1. Install dependencies
+- 🎵 Audio file upload
+- 🎙️ Audio recording
+- 📊 Real-time audio visualization
+- 🎚️ Volume and frequency control
+- 🌈 Colorful and responsive UI
 
-   ```bash
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/EchoChromatic.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd EchoChromatic
+   ```
+
+3. Install dependencies:
+   ```
    npm install
    ```
 
-2. Start the app
-
-   ```bash
-    npx expo start
+4. Start the Expo development server:
+   ```
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Usage
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1. Launch the app on your device or emulator.
+2. Choose to either upload an audio file or record audio.
+3. Watch as the audio is visualized in real-time.
+4. Use the sliders to adjust volume and frequency.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Technologies Used
 
-## Get a fresh project
+- React Native
+- Expo
+- Expo Router
+- React Native Reanimated
+- Expo AV
+- Linear Gradient
 
-When you're ready, run:
+## Contributing
 
-```bash
-npm run reset-project
-```
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Acknowledgments
 
-## Learn more
+- Thanks to [Expo](https://expo.dev/) for their amazing development tools.
+- Inspiration for the audio visualization came from [insert inspiration sources].
 
-To learn more about developing your project with Expo, look at the following resources:
+## Contact
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Your Name Efhaam Ahsan - efhaam666@gmail.com
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Project Link: https://github.com/Efhaam1/EchoChromatic.git
